@@ -15,6 +15,5 @@ This project is a basic implementation of a RESTful API for a Quora-like platfor
 - **Frontend**: Minimal styling using HTML/CSS
 - **Programming Language**: JavaScript (Node.js)
 
-hank you for exploring the Quora-like Posts API! This project serves as a simple example of building a RESTful API using Node.js. Whether you're a beginner or looking for a reference, feel free to clone, modify, and improve upon it.
+hank you for exploring the Quora-like Posts API! This project serves as a simple example of building a RESTful API using Node.js.
 
-If you find any bugs or have suggestions for features, don't hesitate to open an issue or submit a pull request. Let's build something great together!
